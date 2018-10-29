@@ -9,12 +9,3 @@ cat << EOF | go run main.go
     {"key":"value"}
 EOF
 ```
-
-## Install
-```bash
-go get github.com/Jiacheng-z/jsonforwiki
-
-cat << EOF | jsonforwiki
-    {"key":"value"}
-EOF
-```

@@ -1,5 +1,5 @@
 {
-  "key-3": "value-3",
+  "key-3": "value-3",  //这是注释
   "key-2": {
     "key-1": "value-1"
   }
